@@ -18,3 +18,7 @@ body, .logo {
     margin-left: 150px;
     text-align: center;
 }
+
+@-ms-viewport {
+    width: device-width ;
+  }
